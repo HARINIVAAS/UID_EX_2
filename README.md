@@ -90,3 +90,7 @@ One or more action buttons (e.g., "Contact", "Read More", "Add to Cart") that al
 Styling & Layout:
 
 Cards typically have padding, shadow, and border-radius to give a clean, visually appealing look. The layout can vary depending on the card’s purpose, but it often follows a vertical or grid structure.
+
+
+![EX 2](https://github.com/user-attachments/assets/5b5cf357-bf5b-40e8-83b0-5c832a4dbb54)
+
